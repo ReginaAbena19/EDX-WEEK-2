@@ -36,7 +36,7 @@ Once again this was a simple task that could of be curated from the main branch.
 which were eventually merged to main. 
 
 ## Installation
-The challenge is deployed using Github Pages. The end result can be found here: 
+The challenge is deployed using Github Pages. The end result can be found here: https://reginaabena19.github.io/EDX-WEEK-2/ 
 When viewing through the editor ensure live server is installed in order to run the portfolio.html file in the browswer. 
 
 ## License 
